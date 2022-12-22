@@ -1,5 +1,11 @@
 ## Farming
 
+<div align="center">
+  <a href="https://youtu.be/qQi7zVlXLWA"> 
+    <img width="50%" height="50%" src="https://user-images.githubusercontent.com/60832219/209230163-dd9ae4ed-0ec9-444e-ad7e-f88443c55466.png"/>
+  </a>
+</div>
+
 + **프로젝트 소개**
   + 각기 다른 능력을 갖춘 세 가지 영웅 중 하나를 선택하여 최대한 많은 농작물을 처치하는 게임이다.
 
