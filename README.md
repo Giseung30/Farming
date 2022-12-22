@@ -31,3 +31,12 @@
   - 조작감을 향상시켜서 모바일 버전으로 출시하면 좋을 것 같다.
   - 이러한 큰 프로젝트를 경험해볼수록 많은 것을 배운다는 것을 항상 느낀다.
   - 전시회는 1위로 마무리했다.
+
++ **스크린샷**
+<div align="center">
+  <img width="45%" height="45%" src="https://user-images.githubusercontent.com/60832219/209194220-788fc5f6-2b23-44d6-8d1b-17d5796d87be.png"/>
+  <img width="45%" height="45%" src="https://user-images.githubusercontent.com/60832219/209194222-a56162ea-03c8-4a4a-8b16-7469d1859e74.png"/>
+  <img width="45%" height="45%" src="https://user-images.githubusercontent.com/60832219/209194224-d5880ac1-94a5-458c-925d-a0e58408c8bc.png"/>
+  <img width="45%" height="45%" src="https://user-images.githubusercontent.com/60832219/209194229-26bc81f8-cd65-4574-a3f3-ba1a118e52dd.PNG"/>
+  <img width="45%" height="45%" src="https://user-images.githubusercontent.com/60832219/209194233-e155d017-5294-4c45-8cf8-a3aa082b437b.png"/>
+</div>
